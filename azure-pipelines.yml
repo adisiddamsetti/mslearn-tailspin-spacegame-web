@@ -4,7 +4,7 @@
   pool:
     vmImage: 'ubuntu-20.04'
     demands:
-    - npmm
+    - npm
   
   variables:
     buildConfiguration: 'Release'
